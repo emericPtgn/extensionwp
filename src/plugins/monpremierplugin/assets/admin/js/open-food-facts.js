@@ -1,20 +1,17 @@
 jQuery(document).ready(function($) {
     $('#fetch_open_food_facts_single').on('click', function() {
-        console.log('Button clicked');
-        var barcode = $(this).data('barcode');
-        console.log('Barcode:', barcode);
-        fetchdata(barcode);
+        var sku = $('#_sku').val(); // Récupérer la valeur du champ SKU
+        fetchdata(sku); // Appeler la fonction fetchdata avec le SKU récupéré
     });
 });
 
-async function fetchdata(barcode) {
-    const url = `https://world.openfoodfacts.org/api/v0/product/${barcode}.json`;
+async function fetchdata(sku) {
+    const url = `https://world.openfoodfacts.org/api/v0/product/${sku}.json`;
 
     try {
         const response = await fetch(url);
 
         if (response.ok) {
-            console.log('Response ok !!');
             const data = await response.json();
             console.log('Data:', data);
 
@@ -27,7 +24,7 @@ async function fetchdata(barcode) {
 
             console.log('Product Data:', productData);
 
-            // Utilisation de jQuery pour envoyer les données via AJAX vers le backend WP
+            // Envoyer les données via AJAX vers le backend WP
             jQuery.ajax({
                 url: openFoodFacts.ajax_url,
                 type: 'POST',
