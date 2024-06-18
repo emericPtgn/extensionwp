@@ -20,8 +20,23 @@ class Open_Food_Facts_Controller {
 
         // Pour la page d'édition de produit
         add_action('add_meta_boxes_product', [__CLASS__, 'add_open_food_facts_button_single']);
+        add_action('add_meta_boxes', [__CLASS__, 'add_open_food_facts_fields']);
     }
 
+    public static function add_open_food_facts_fields(){
+        add_meta_box(
+            'open_food_facts_fields',
+            'Open Food Facts Informations',
+            [__CLASS__, 'render_open_food_facts_fields'],
+            'product',
+            'advanced',
+            'high'
+        );
+    }
+
+    public static function render_open_food_facts_fields(){
+        require plugin_dir_path(__FILE__) . '../vue/open-food-facts-data-view.php';
+    }
 
     public static function add_open_food_facts_button() {
         add_meta_box(
