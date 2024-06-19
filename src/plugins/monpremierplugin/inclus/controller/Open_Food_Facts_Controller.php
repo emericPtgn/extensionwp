@@ -10,7 +10,7 @@ use Open_Food_Facts_Model;
 class Open_Food_Facts_Controller {
 
     public static function init() {
-        add_action('add_meta_boxes', [__CLASS__, 'add_open_food_facts_button']);
+
         add_action('admin_enqueue_scripts', [__CLASS__, 'enqueue_open_food_facts_script']);
         add_action('wp_ajax_fetch_open_food_facts', [__CLASS__, 'fetch_open_food_facts']);
 
@@ -19,8 +19,9 @@ class Open_Food_Facts_Controller {
         add_action('manage_product_posts_custom_column', [__CLASS__, 'render_open_food_facts_column'], 10, 2);
 
         // Pour la page d'édition de produit
-        add_action('add_meta_boxes_product', [__CLASS__, 'add_open_food_facts_button_single']);
+        add_action('add_meta_boxes', [__CLASS__, 'add_open_food_facts_button']);
         add_action('add_meta_boxes', [__CLASS__, 'add_open_food_facts_fields']);
+
     }
 
     public static function add_open_food_facts_fields(){
@@ -114,24 +115,9 @@ class Open_Food_Facts_Controller {
 
     public static function render_open_food_facts_column($column, $post_id) {
         if ($column === 'open_food_facts') {
-            echo '<button class="button fetch_open_food_facts" data-barcode="' . esc_attr($post_id) . '">Fetch Open Food Facts</button>';
+            require plugin_dir_path(__FILE__) . '../vue/open-food-facts-view.php';
             echo '<div class="open_food_facts_data" id="open_food_facts_data_' . esc_attr($post_id) . '"></div>';
         }
-    }
-
-    public static function add_open_food_facts_button_single($post) {
-        add_meta_box(
-            'open_food_facts_button',
-            'Open Food Facts',
-            [__CLASS__, 'render_open_food_facts_button_single'],
-            'product',
-            'side',
-            'high'
-        );
-    }
-
-    public static function render_open_food_facts_button_single($post) {
-        require plugin_dir_path(__FILE__) . '../vue/open-food-facts-view.php';
     }
 
 
