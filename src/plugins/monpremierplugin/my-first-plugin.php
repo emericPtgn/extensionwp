@@ -13,6 +13,8 @@ if (!defined('WPINC')) {
 
 // Include necessary files
 require_once plugin_dir_path(__FILE__) . '/inclus/controller/open_food_facts_controller.php';
+require_once plugin_dir_path(__FILE__) . 'vendor/autoload.php';
+
 
 // Initialize the controller
 add_action('plugins_loaded', ['Open_Food_Facts_Controller', 'init']);
