@@ -240,8 +240,8 @@ class Open_Food_Facts_Controller {
         $consumerSecret = $_ENV['CONSUMER_SECRET'] ?? 'your_consumer_secret';
         write_log('consumerSecret: ' . $consumerSecret, $log_file);
         $ip = $_ENV['IP'];
-        // Construire l'URL de l'API
-        $url = 'https://192.168.1.12/wp-json/wc/v3/products/' . $product_id;
+        // Construire l'URL de l'API sans afficher l'ip
+        $url = 'https://'.$ip.'/wp-json/wc/v3/products/' . $product_id;
     
         try {
             // Créer une instance du client HTTP
