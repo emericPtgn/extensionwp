@@ -1,4 +1,4 @@
 .env
 /certs
 /nginx/certs
-.tar
+*.tar
