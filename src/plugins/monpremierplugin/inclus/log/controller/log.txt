@@ -20955,3 +20955,2459 @@ Warning: Cannot modify header information - headers already sent by (output star
 [2024-06-25 07:55:06] postId: 47
 [2024-06-25 07:55:06] isActiv: 0
 [2024-06-25 07:55:06] buttonDisabled: Disabled
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: thumb
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: name
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: sku
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: is_in_stock
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: price
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: product_cat
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: product_tag
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: featured
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:45] column: open_food_facts
+[2024-06-25 08:30:45]  ceci est un message '1'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: thumb
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: name
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: sku
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: is_in_stock
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: price
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: product_cat
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: product_tag
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: featured
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:45] column: open_food_facts
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: thumb
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: name
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: sku
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: is_in_stock
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: price
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: product_cat
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: product_tag
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: featured
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:45] column: open_food_facts
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: thumb
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: name
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: sku
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: is_in_stock
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: price
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: product_cat
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: product_tag
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: featured
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:45] column: open_food_facts
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: thumb
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: name
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: sku
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: is_in_stock
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: price
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: product_cat
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: product_tag
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: featured
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:45] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:45] column: open_food_facts
+[2024-06-25 08:30:45]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: thumb
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: name
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: sku
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: is_in_stock
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: price
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: product_cat
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: product_tag
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: featured
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:48] column: open_food_facts
+[2024-06-25 08:30:48]  ceci est un message '1'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: thumb
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: name
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: sku
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: is_in_stock
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: price
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: product_cat
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: product_tag
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: featured
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:48] column: open_food_facts
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: thumb
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: name
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: sku
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: is_in_stock
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: price
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: product_cat
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: product_tag
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: featured
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:48] column: open_food_facts
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: thumb
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: name
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: sku
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: is_in_stock
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: price
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: product_cat
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: product_tag
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: featured
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:48] column: open_food_facts
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: thumb
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: name
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: sku
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: is_in_stock
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: price
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: product_cat
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: product_tag
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: featured
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:48] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:48] column: open_food_facts
+[2024-06-25 08:30:48]  ceci est un message '0'
+[2024-06-25 08:30:51] Product ID: 47
+[2024-06-25 08:30:51] consumerKey: ck_54ca9d9e6d8a71b8a082081ce18deb7b6ac67f2f
+[2024-06-25 08:30:51] consumerSecret: cs_c122d32e490ebd778aefc4dee7deca375b9a7b03
+[2024-06-25 08:30:51] Response Data: {"id":47,"name":"mont roucous","slug":"mont-roucous","permalink":"https:\/\/localhost\/produit\/mont-roucous\/","date_created":"2024-06-25T08:30:07","date_created_gmt":"2024-06-25T06:30:07","date_modified":"2024-06-25T08:30:07","date_modified_gmt":"2024-06-25T06:30:07","type":"simple","status":"publish","featured":false,"catalog_visibility":"visible","description":"<p>MIAM.<\/p>\n","short_description":"<p>SAIN.<\/p>\n","sku":"3257971309114","price":"1.10","regular_price":"1.10","sale_price":"","date_on_sale_from":null,"date_on_sale_from_gmt":null,"date_on_sale_to":null,"date_on_sale_to_gmt":null,"on_sale":false,"purchasable":true,"total_sales":0,"virtual":false,"downloadable":false,"downloads":[],"download_limit":-1,"download_expiry":-1,"external_url":"","button_text":"","tax_status":"taxable","tax_class":"","manage_stock":false,"stock_quantity":null,"backorders":"no","backorders_allowed":false,"backordered":false,"low_stock_amount":null,"sold_individually":false,"weight":"","dimensions":{"length":"","width":"","height":""},"shipping_required":true,"shipping_taxable":true,"shipping_class":"","shipping_class_id":0,"reviews_allowed":true,"average_rating":"0.00","rating_count":0,"upsell_ids":[],"cross_sell_ids":[],"parent_id":0,"purchase_note":"","categories":[{"id":15,"name":"Non class\u00e9","slug":"non-classe"}],"tags":[],"images":[],"attributes":[],"default_attributes":[],"variations":[],"grouped_products":[],"menu_order":0,"price_html":"<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1.10<\/bdi><\/span>","related_ids":[45,46,42,16,21],"meta_data":[{"id":504,"key":"_isActiv","value":"0"}],"stock_status":"instock","has_options":false,"post_password":"","_links":{"self":[{"href":"https:\/\/localhost\/wp-json\/wc\/v3\/products\/47"}],"collection":[{"href":"https:\/\/localhost\/wp-json\/wc\/v3\/products"}]}}
+[2024-06-25 08:30:51] SKU: 3257971309114
+[2024-06-25 08:30:51] Values to Display: Array
+(
+    [nutriscore] => a
+    [keywords] => ["en:beverages","en:waters","en:spring-waters","en:mineral-waters","en:non-alcoholic-beverages","en:unsweetened-beverages","en:natural-mineral-waters"]
+    [last_maj] => 2024-06-25 09:35:09
+)
+
+[2024-06-25 08:30:51] postId: 47
+[2024-06-25 08:30:51] isActiv: 0
+[2024-06-25 08:30:51] buttonDisabled: Disabled
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: thumb
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: name
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: sku
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: is_in_stock
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: price
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: product_cat
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: product_tag
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: featured
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:30:56] column: open_food_facts
+[2024-06-25 08:30:56]  ceci est un message '1'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: thumb
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: name
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: sku
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: is_in_stock
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: price
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: product_cat
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: product_tag
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: featured
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:30:56] column: open_food_facts
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: thumb
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: name
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: sku
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: is_in_stock
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: price
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: product_cat
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: product_tag
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: featured
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:30:56] column: open_food_facts
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: thumb
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: name
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: sku
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: is_in_stock
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: price
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: product_cat
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: product_tag
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: featured
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:30:56] column: open_food_facts
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: thumb
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: name
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: sku
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: is_in_stock
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: price
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: product_cat
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: product_tag
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: featured
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:30:56] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:30:56] column: open_food_facts
+[2024-06-25 08:30:56]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: thumb
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: name
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: sku
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: is_in_stock
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: price
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: product_cat
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: product_tag
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: featured
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:31:05] column: open_food_facts
+[2024-06-25 08:31:05]  ceci est un message '1'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: thumb
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: name
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: sku
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: is_in_stock
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: price
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: product_cat
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: product_tag
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: featured
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:31:05] column: open_food_facts
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: thumb
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: name
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: sku
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: is_in_stock
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: price
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: product_cat
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: product_tag
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: featured
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:31:05] column: open_food_facts
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: thumb
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: name
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: sku
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: is_in_stock
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: price
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: product_cat
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: product_tag
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: featured
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:31:05] column: open_food_facts
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: thumb
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: name
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: sku
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: is_in_stock
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: price
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: product_cat
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: product_tag
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: featured
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:31:05] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:31:05] column: open_food_facts
+[2024-06-25 08:31:05]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: thumb
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: name
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: sku
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: is_in_stock
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: price
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: product_cat
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: product_tag
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: featured
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:41:35] column: open_food_facts
+[2024-06-25 08:41:35]  ceci est un message '1'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: thumb
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: name
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: sku
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: is_in_stock
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: price
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: product_cat
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: product_tag
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: featured
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:41:35] column: open_food_facts
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: thumb
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: name
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: sku
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: is_in_stock
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: price
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: product_cat
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: product_tag
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: featured
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:41:35] column: open_food_facts
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: thumb
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: name
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: sku
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: is_in_stock
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: price
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: product_cat
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: product_tag
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: featured
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:41:35] column: open_food_facts
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: thumb
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: name
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: sku
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: is_in_stock
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: price
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: product_cat
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: product_tag
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: featured
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:41:35] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:41:35] column: open_food_facts
+[2024-06-25 08:41:35]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: thumb
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: name
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: sku
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: is_in_stock
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: price
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: product_cat
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: product_tag
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: featured
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:42:50] column: open_food_facts
+[2024-06-25 08:42:50]  ceci est un message '1'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: thumb
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: name
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: sku
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: is_in_stock
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: price
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: product_cat
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: product_tag
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: featured
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:42:50] column: open_food_facts
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: thumb
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: name
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: sku
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: is_in_stock
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: price
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: product_cat
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: product_tag
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: featured
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:42:50] column: open_food_facts
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: thumb
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: name
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: sku
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: is_in_stock
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: price
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: product_cat
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: product_tag
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: featured
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:42:50] column: open_food_facts
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: thumb
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: name
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: sku
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: is_in_stock
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: price
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: product_cat
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: product_tag
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: featured
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:42:50] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:42:50] column: open_food_facts
+[2024-06-25 08:42:50]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: thumb
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: name
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: sku
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: is_in_stock
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: price
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: product_cat
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: product_tag
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: featured
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 48
+[2024-06-25 08:49:31] column: open_food_facts
+[2024-06-25 08:49:31]  ceci est un message '1'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: thumb
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: name
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: sku
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: is_in_stock
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: price
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: product_cat
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: product_tag
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: featured
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 47
+[2024-06-25 08:49:31] column: open_food_facts
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: thumb
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: name
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: sku
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: is_in_stock
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: price
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: product_cat
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: product_tag
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: featured
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 46
+[2024-06-25 08:49:31] column: open_food_facts
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: thumb
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: name
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: sku
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: is_in_stock
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: price
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: product_cat
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: product_tag
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: featured
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 45
+[2024-06-25 08:49:31] column: open_food_facts
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: thumb
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: name
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: sku
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: is_in_stock
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: price
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: product_cat
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: product_tag
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: featured
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 08:49:31] render_open_food_facts_column called for post_id: 44
+[2024-06-25 08:49:31] column: open_food_facts
+[2024-06-25 08:49:31]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: thumb
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: name
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: sku
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: is_in_stock
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: price
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: product_cat
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: product_tag
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: featured
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:18:57] column: open_food_facts
+[2024-06-25 09:18:57]  ceci est un message '1'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: thumb
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: name
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: sku
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: is_in_stock
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: price
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: product_cat
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: product_tag
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: featured
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:18:57] column: open_food_facts
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: thumb
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: name
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: sku
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: is_in_stock
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: price
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: product_cat
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: product_tag
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: featured
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:18:57] column: open_food_facts
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: thumb
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: name
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: sku
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: is_in_stock
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: price
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: product_cat
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: product_tag
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: featured
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:18:57] column: open_food_facts
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: thumb
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: name
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: sku
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: is_in_stock
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: price
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: product_cat
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: product_tag
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: featured
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:18:57] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:18:57] column: open_food_facts
+[2024-06-25 09:18:57]  ceci est un message '0'
+[2024-06-25 09:43:09] Meta when update post meta is false: 0
+[2024-06-25 09:43:13] Meta when update post meta is false: 0
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: thumb
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: name
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: sku
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: is_in_stock
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: price
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: product_cat
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: product_tag
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: featured
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:14] column: open_food_facts
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: thumb
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: name
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: sku
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: is_in_stock
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: price
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: product_cat
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: product_tag
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: featured
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:14] column: open_food_facts
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: thumb
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: name
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: sku
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: is_in_stock
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: price
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: product_cat
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: product_tag
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: featured
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:14] column: open_food_facts
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: thumb
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: name
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: sku
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: is_in_stock
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: price
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: product_cat
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: product_tag
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: featured
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:14] column: open_food_facts
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: thumb
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: name
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: sku
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: is_in_stock
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: price
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: product_cat
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: product_tag
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: featured
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:14] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:14] column: open_food_facts
+[2024-06-25 09:43:14]  ceci est un message '0'
+[2024-06-25 09:43:40] Product ID: 48
+[2024-06-25 09:43:40] consumerKey: ck_54ca9d9e6d8a71b8a082081ce18deb7b6ac67f2f
+[2024-06-25 09:43:40] consumerSecret: cs_c122d32e490ebd778aefc4dee7deca375b9a7b03
+[2024-06-25 09:43:40] Response Data: {"id":48,"name":"madeleine","slug":"madeleine","permalink":"https:\/\/localhost\/produit\/madeleine\/","date_created":"2024-06-25T09:12:21","date_created_gmt":"2024-06-25T07:12:21","date_modified":"2024-06-25T09:12:21","date_modified_gmt":"2024-06-25T07:12:21","type":"simple","status":"publish","featured":false,"catalog_visibility":"visible","description":"<p>MIAM.<\/p>\n","short_description":"<p>SAIN.<\/p>\n","sku":"3178530410105","price":"1.10","regular_price":"1.10","sale_price":"","date_on_sale_from":null,"date_on_sale_from_gmt":null,"date_on_sale_to":null,"date_on_sale_to_gmt":null,"on_sale":false,"purchasable":true,"total_sales":0,"virtual":false,"downloadable":false,"downloads":[],"download_limit":-1,"download_expiry":-1,"external_url":"","button_text":"","tax_status":"taxable","tax_class":"","manage_stock":false,"stock_quantity":null,"backorders":"no","backorders_allowed":false,"backordered":false,"low_stock_amount":null,"sold_individually":false,"weight":"","dimensions":{"length":"","width":"","height":""},"shipping_required":true,"shipping_taxable":true,"shipping_class":"","shipping_class_id":0,"reviews_allowed":true,"average_rating":"0.00","rating_count":0,"upsell_ids":[],"cross_sell_ids":[],"parent_id":0,"purchase_note":"","categories":[{"id":15,"name":"Non class\u00e9","slug":"non-classe"}],"tags":[],"images":[],"attributes":[],"default_attributes":[],"variations":[],"grouped_products":[],"menu_order":0,"price_html":"<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1.10<\/bdi><\/span>","related_ids":[44,45,46,47],"meta_data":[{"id":538,"key":"_isActiv","value":"0"}],"stock_status":"instock","has_options":false,"post_password":"","_links":{"self":[{"href":"https:\/\/localhost\/wp-json\/wc\/v3\/products\/48"}],"collection":[{"href":"https:\/\/localhost\/wp-json\/wc\/v3\/products"}]}}
+[2024-06-25 09:43:40] SKU: 3178530410105
+[2024-06-25 09:43:40] Values to Display: Array
+(
+    [nutriscore] => d
+    [keywords] => ["en:snacks","en:sweet-snacks","en:biscuits-and-cakes","en:cakes","en:madeleines","en:madeleines-natures"]
+    [last_maj] => 2024-06-25 11:43:13
+)
+
+[2024-06-25 09:43:40] postId: 48
+[2024-06-25 09:43:40] isActiv: 0
+[2024-06-25 09:43:40] buttonDisabled: Disabled
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: thumb
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: name
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: sku
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: is_in_stock
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: price
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: product_cat
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: product_tag
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: featured
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 48
+[2024-06-25 09:43:45] column: open_food_facts
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: thumb
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: name
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: sku
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: is_in_stock
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: price
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: product_cat
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: product_tag
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: featured
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 47
+[2024-06-25 09:43:45] column: open_food_facts
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: thumb
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: name
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: sku
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: is_in_stock
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: price
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: product_cat
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: product_tag
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: featured
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 46
+[2024-06-25 09:43:45] column: open_food_facts
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:45] column: thumb
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:45] column: name
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:45] column: sku
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:45] column: is_in_stock
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:45] column: price
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:45] column: product_cat
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:45] column: product_tag
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:45] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:45] column: featured
+[2024-06-25 09:43:45]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 45
+[2024-06-25 09:43:46] column: open_food_facts
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: thumb
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: name
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: sku
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: is_in_stock
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: price
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: product_cat
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: product_tag
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: featured
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 09:43:46] render_open_food_facts_column called for post_id: 44
+[2024-06-25 09:43:46] column: open_food_facts
+[2024-06-25 09:43:46]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: thumb
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: name
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: sku
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: is_in_stock
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: price
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: product_cat
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: product_tag
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: featured
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 48
+[2024-06-25 11:29:47] column: open_food_facts
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: thumb
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: name
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: sku
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: is_in_stock
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: price
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: product_cat
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: product_tag
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: featured
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 47
+[2024-06-25 11:29:47] column: open_food_facts
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: thumb
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: name
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: sku
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: is_in_stock
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: price
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: product_cat
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: product_tag
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: featured
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 46
+[2024-06-25 11:29:47] column: open_food_facts
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: thumb
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: name
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: sku
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: is_in_stock
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: price
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: product_cat
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: product_tag
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: featured
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 45
+[2024-06-25 11:29:47] column: open_food_facts
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: thumb
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: name
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: sku
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: is_in_stock
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: price
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: product_cat
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: product_tag
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: featured
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 11:29:47] render_open_food_facts_column called for post_id: 44
+[2024-06-25 11:29:47] column: open_food_facts
+[2024-06-25 11:29:47]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: thumb
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: name
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: sku
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: is_in_stock
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: price
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: product_cat
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: product_tag
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: featured
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 48
+[2024-06-25 14:19:18] column: open_food_facts
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: thumb
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: name
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: sku
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: is_in_stock
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: price
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: product_cat
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: product_tag
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: featured
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 47
+[2024-06-25 14:19:18] column: open_food_facts
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: thumb
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: name
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: sku
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: is_in_stock
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: price
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: product_cat
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: product_tag
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: featured
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 46
+[2024-06-25 14:19:18] column: open_food_facts
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: thumb
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: name
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: sku
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: is_in_stock
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: price
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: product_cat
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: product_tag
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: featured
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 45
+[2024-06-25 14:19:18] column: open_food_facts
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: thumb
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: name
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: sku
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: is_in_stock
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: price
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: product_cat
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: product_tag
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: featured
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:18] render_open_food_facts_column called for post_id: 44
+[2024-06-25 14:19:18] column: open_food_facts
+[2024-06-25 14:19:18]  ceci est un message '0'
+[2024-06-25 14:19:23] Product ID: 48
+[2024-06-25 14:19:23] consumerKey: ck_54ca9d9e6d8a71b8a082081ce18deb7b6ac67f2f
+[2024-06-25 14:19:23] consumerSecret: cs_c122d32e490ebd778aefc4dee7deca375b9a7b03
+[2024-06-25 14:19:23] Response Data: {"id":48,"name":"madeleine","slug":"madeleine","permalink":"https:\/\/localhost\/produit\/madeleine\/","date_created":"2024-06-25T09:12:21","date_created_gmt":"2024-06-25T07:12:21","date_modified":"2024-06-25T09:12:21","date_modified_gmt":"2024-06-25T07:12:21","type":"simple","status":"publish","featured":false,"catalog_visibility":"visible","description":"<p>MIAM.<\/p>\n","short_description":"<p>SAIN.<\/p>\n","sku":"3178530410105","price":"1.10","regular_price":"1.10","sale_price":"","date_on_sale_from":null,"date_on_sale_from_gmt":null,"date_on_sale_to":null,"date_on_sale_to_gmt":null,"on_sale":false,"purchasable":true,"total_sales":0,"virtual":false,"downloadable":false,"downloads":[],"download_limit":-1,"download_expiry":-1,"external_url":"","button_text":"","tax_status":"taxable","tax_class":"","manage_stock":false,"stock_quantity":null,"backorders":"no","backorders_allowed":false,"backordered":false,"low_stock_amount":null,"sold_individually":false,"weight":"","dimensions":{"length":"","width":"","height":""},"shipping_required":true,"shipping_taxable":true,"shipping_class":"","shipping_class_id":0,"reviews_allowed":true,"average_rating":"0.00","rating_count":0,"upsell_ids":[],"cross_sell_ids":[],"parent_id":0,"purchase_note":"","categories":[{"id":15,"name":"Non class\u00e9","slug":"non-classe"}],"tags":[],"images":[],"attributes":[],"default_attributes":[],"variations":[],"grouped_products":[],"menu_order":0,"price_html":"<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1.10<\/bdi><\/span>","related_ids":[45,47,44,46],"meta_data":[{"id":538,"key":"_isActiv","value":"0"}],"stock_status":"instock","has_options":false,"post_password":"","_links":{"self":[{"href":"https:\/\/localhost\/wp-json\/wc\/v3\/products\/48"}],"collection":[{"href":"https:\/\/localhost\/wp-json\/wc\/v3\/products"}]}}
+[2024-06-25 14:19:23] SKU: 3178530410105
+[2024-06-25 14:19:23] Values to Display: Array
+(
+    [nutriscore] => d
+    [keywords] => ["en:snacks","en:sweet-snacks","en:biscuits-and-cakes","en:cakes","en:madeleines","en:madeleines-natures"]
+    [last_maj] => 2024-06-25 11:43:13
+)
+
+[2024-06-25 14:19:23] postId: 48
+[2024-06-25 14:19:23] isActiv: 0
+[2024-06-25 14:19:23] buttonDisabled: Disabled
+[2024-06-25 14:20:46] Product ID: 48
+[2024-06-25 14:20:46] consumerKey: ck_54ca9d9e6d8a71b8a082081ce18deb7b6ac67f2f
+[2024-06-25 14:20:46] consumerSecret: cs_c122d32e490ebd778aefc4dee7deca375b9a7b03
+[2024-06-25 14:20:46] Response Data: {"id":48,"name":"madeleine","slug":"madeleine","permalink":"https:\/\/localhost\/produit\/madeleine\/","date_created":"2024-06-25T09:12:21","date_created_gmt":"2024-06-25T07:12:21","date_modified":"2024-06-25T09:12:21","date_modified_gmt":"2024-06-25T07:12:21","type":"simple","status":"publish","featured":false,"catalog_visibility":"visible","description":"<p>MIAM.<\/p>\n","short_description":"<p>SAIN.<\/p>\n","sku":"3178530410105","price":"1.10","regular_price":"1.10","sale_price":"","date_on_sale_from":null,"date_on_sale_from_gmt":null,"date_on_sale_to":null,"date_on_sale_to_gmt":null,"on_sale":false,"purchasable":true,"total_sales":0,"virtual":false,"downloadable":false,"downloads":[],"download_limit":-1,"download_expiry":-1,"external_url":"","button_text":"","tax_status":"taxable","tax_class":"","manage_stock":false,"stock_quantity":null,"backorders":"no","backorders_allowed":false,"backordered":false,"low_stock_amount":null,"sold_individually":false,"weight":"","dimensions":{"length":"","width":"","height":""},"shipping_required":true,"shipping_taxable":true,"shipping_class":"","shipping_class_id":0,"reviews_allowed":true,"average_rating":"0.00","rating_count":0,"upsell_ids":[],"cross_sell_ids":[],"parent_id":0,"purchase_note":"","categories":[{"id":15,"name":"Non class\u00e9","slug":"non-classe"}],"tags":[],"images":[],"attributes":[],"default_attributes":[],"variations":[],"grouped_products":[],"menu_order":0,"price_html":"<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1.10<\/bdi><\/span>","related_ids":[47,46,45,44],"meta_data":[{"id":538,"key":"_isActiv","value":"0"}],"stock_status":"instock","has_options":false,"post_password":"","_links":{"self":[{"href":"https:\/\/localhost\/wp-json\/wc\/v3\/products\/48"}],"collection":[{"href":"https:\/\/localhost\/wp-json\/wc\/v3\/products"}]}}
+[2024-06-25 14:20:46] SKU: 3178530410105
+[2024-06-25 14:20:46] Values to Display: Array
+(
+    [nutriscore] => d
+    [keywords] => ["en:snacks","en:sweet-snacks","en:biscuits-and-cakes","en:cakes","en:madeleines","en:madeleines-natures"]
+    [last_maj] => 2024-06-25 11:43:13
+)
+
+[2024-06-25 14:20:46] postId: 48
+[2024-06-25 14:20:46] isActiv: 0
+[2024-06-25 14:20:46] buttonDisabled: Disabled
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: thumb
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: name
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: sku
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: is_in_stock
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: price
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: product_cat
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: product_tag
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: featured
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:06] column: open_food_facts
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: thumb
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: name
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: sku
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: is_in_stock
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: price
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: product_cat
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: product_tag
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: featured
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:06] column: open_food_facts
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: thumb
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: name
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: sku
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: is_in_stock
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: price
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: product_cat
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: product_tag
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: featured
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:06] column: open_food_facts
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: thumb
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: name
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: sku
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: is_in_stock
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: price
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: product_cat
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: product_tag
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: featured
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:06] column: open_food_facts
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: thumb
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: name
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: sku
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: is_in_stock
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: price
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: product_cat
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: product_tag
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: featured
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:06] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:06] column: open_food_facts
+[2024-06-25 15:23:06]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: thumb
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: name
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: sku
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: is_in_stock
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: price
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: product_cat
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: product_tag
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: featured
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:23:13] column: open_food_facts
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: thumb
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: name
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: sku
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: is_in_stock
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: price
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: product_cat
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: product_tag
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: featured
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:23:13] column: open_food_facts
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: thumb
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: name
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: sku
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: is_in_stock
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: price
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: product_cat
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: product_tag
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: featured
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:23:13] column: open_food_facts
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: thumb
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: name
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: sku
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: is_in_stock
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: price
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: product_cat
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: product_tag
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: featured
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:23:13] column: open_food_facts
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: thumb
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: name
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: sku
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: is_in_stock
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: price
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: product_cat
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: product_tag
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: featured
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:23:13] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:23:13] column: open_food_facts
+[2024-06-25 15:23:13]  ceci est un message '0'
+[2024-06-25 15:29:30] New product created. Meta data added for product ID: 52
+[2024-06-25 15:29:30] Meta: 1
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: thumb
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: name
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: sku
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: is_in_stock
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: price
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: product_cat
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: product_tag
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: featured
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:12] column: open_food_facts
+[2024-06-25 15:30:12]  ceci est un message '1'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: thumb
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: name
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: sku
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: is_in_stock
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: price
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: product_cat
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: product_tag
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: featured
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:12] column: open_food_facts
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: thumb
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: name
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: sku
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: is_in_stock
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: price
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: product_cat
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: product_tag
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: featured
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:12] column: open_food_facts
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: thumb
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: name
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: sku
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: is_in_stock
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: price
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: product_cat
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: product_tag
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: featured
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:12] column: open_food_facts
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: thumb
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: name
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: sku
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: is_in_stock
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: price
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: product_cat
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: product_tag
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: featured
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:12] column: open_food_facts
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: thumb
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: name
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: sku
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: is_in_stock
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: price
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: product_cat
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: product_tag
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: featured
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:12] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:12] column: open_food_facts
+[2024-06-25 15:30:12]  ceci est un message '0'
+[2024-06-25 15:30:17] Meta when update post meta is false: 0
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: thumb
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: name
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: sku
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: is_in_stock
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: price
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: product_cat
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: product_tag
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: featured
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:19] column: open_food_facts
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: thumb
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: name
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: sku
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: is_in_stock
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: price
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: product_cat
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: product_tag
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: featured
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:19] column: open_food_facts
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: thumb
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: name
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: sku
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: is_in_stock
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: price
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: product_cat
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: product_tag
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: featured
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:19] column: open_food_facts
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: thumb
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: name
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: sku
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: is_in_stock
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: price
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: product_cat
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: product_tag
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: featured
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:19] column: open_food_facts
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: thumb
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: name
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: sku
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: is_in_stock
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: price
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: product_cat
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: product_tag
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: featured
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:19] column: open_food_facts
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: thumb
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: name
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: sku
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: is_in_stock
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: price
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: product_cat
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: product_tag
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: featured
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:19] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:19] column: open_food_facts
+[2024-06-25 15:30:19]  ceci est un message '0'
+[2024-06-25 15:30:21] Product ID: 52
+[2024-06-25 15:30:21] consumerKey: ck_54ca9d9e6d8a71b8a082081ce18deb7b6ac67f2f
+[2024-06-25 15:30:21] consumerSecret: cs_c122d32e490ebd778aefc4dee7deca375b9a7b03
+[2024-06-25 15:30:21] Response Data: {"id":52,"name":"banane","slug":"banane","permalink":"https:\/\/192.168.1.12\/produit\/banane\/","date_created":"2024-06-25T17:29:30","date_created_gmt":"2024-06-25T15:29:30","date_modified":"2024-06-25T17:30:04","date_modified_gmt":"2024-06-25T15:30:04","type":"simple","status":"publish","featured":false,"catalog_visibility":"visible","description":"<p>MIAM.<\/p>\n","short_description":"<p>SAIN.<\/p>\n","sku":"3523680438224","price":"1.10","regular_price":"1.10","sale_price":"","date_on_sale_from":null,"date_on_sale_from_gmt":null,"date_on_sale_to":null,"date_on_sale_to_gmt":null,"on_sale":false,"purchasable":true,"total_sales":0,"virtual":false,"downloadable":false,"downloads":[],"download_limit":-1,"download_expiry":-1,"external_url":"","button_text":"","tax_status":"taxable","tax_class":"","manage_stock":false,"stock_quantity":null,"backorders":"no","backorders_allowed":false,"backordered":false,"low_stock_amount":null,"sold_individually":false,"weight":"","dimensions":{"length":"","width":"","height":""},"shipping_required":true,"shipping_taxable":true,"shipping_class":"","shipping_class_id":0,"reviews_allowed":true,"average_rating":"0.00","rating_count":0,"upsell_ids":[],"cross_sell_ids":[],"parent_id":0,"purchase_note":"","categories":[{"id":15,"name":"Non class\u00e9","slug":"non-classe"}],"tags":[],"images":[],"attributes":[],"default_attributes":[],"variations":[],"grouped_products":[],"menu_order":0,"price_html":"<span class=\"woocommerce-Price-amount amount\"><bdi><span class=\"woocommerce-Price-currencySymbol\">&#36;<\/span>1.10<\/bdi><\/span>","related_ids":[45,46,48,44,47],"meta_data":[{"id":561,"key":"_isActiv","value":"0"}],"stock_status":"instock","has_options":false,"post_password":"","_links":{"self":[{"href":"https:\/\/192.168.1.12\/wp-json\/wc\/v3\/products\/52"}],"collection":[{"href":"https:\/\/192.168.1.12\/wp-json\/wc\/v3\/products"}]}}
+[2024-06-25 15:30:21] SKU: 3523680438224
+[2024-06-25 15:30:21] Values to Display: Array
+(
+    [nutriscore] => a
+    [keywords] => ["en:plant-based-foods-and-beverages","en:plant-based-foods","en:fruits-and-vegetables-based-foods","en:fruits-based-foods","en:fruits","en:tropical-fruits","en:bananas"]
+    [last_maj] => 2024-06-25 17:30:17
+)
+
+[2024-06-25 15:30:21] postId: 52
+[2024-06-25 15:30:21] isActiv: 0
+[2024-06-25 15:30:21] buttonDisabled: Disabled
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: thumb
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: name
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: sku
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: is_in_stock
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: price
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: product_cat
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: product_tag
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: featured
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 52
+[2024-06-25 15:30:27] column: open_food_facts
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: thumb
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: name
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: sku
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: is_in_stock
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: price
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: product_cat
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: product_tag
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: featured
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 48
+[2024-06-25 15:30:27] column: open_food_facts
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: thumb
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: name
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: sku
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: is_in_stock
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: price
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: product_cat
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: product_tag
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: featured
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 47
+[2024-06-25 15:30:27] column: open_food_facts
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: thumb
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: name
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: sku
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: is_in_stock
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: price
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: product_cat
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: product_tag
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: featured
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 46
+[2024-06-25 15:30:27] column: open_food_facts
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: thumb
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: name
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: sku
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: is_in_stock
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: price
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: product_cat
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: product_tag
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: featured
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 45
+[2024-06-25 15:30:27] column: open_food_facts
+[2024-06-25 15:30:27]  ceci est un message '0'
+[2024-06-25 15:30:27] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: thumb
+[2024-06-25 15:30:28]  ceci est un message '0'
+[2024-06-25 15:30:28] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: name
+[2024-06-25 15:30:28]  ceci est un message '0'
+[2024-06-25 15:30:28] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: sku
+[2024-06-25 15:30:28]  ceci est un message '0'
+[2024-06-25 15:30:28] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: is_in_stock
+[2024-06-25 15:30:28]  ceci est un message '0'
+[2024-06-25 15:30:28] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: price
+[2024-06-25 15:30:28]  ceci est un message '0'
+[2024-06-25 15:30:28] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: product_cat
+[2024-06-25 15:30:28]  ceci est un message '0'
+[2024-06-25 15:30:28] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: product_tag
+[2024-06-25 15:30:28]  ceci est un message '0'
+[2024-06-25 15:30:28] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: featured
+[2024-06-25 15:30:28]  ceci est un message '0'
+[2024-06-25 15:30:28] render_open_food_facts_column called for post_id: 44
+[2024-06-25 15:30:28] column: open_food_facts
+[2024-06-25 15:30:28]  ceci est un message '0'

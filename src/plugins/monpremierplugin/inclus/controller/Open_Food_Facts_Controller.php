@@ -2,8 +2,6 @@
 // Inclus le fichier de la classe Open_Food_Facts_Model
 require_once plugin_dir_path(__FILE__) . '../models/Open_Food_Facts_Model.php';
 
-// Utilise la classe Open_Food_Facts_Model
-use Open_Food_Facts_Model;
 use Symfony\Component\HttpClient\HttpClient;
 
 class Open_Food_Facts_Controller {
@@ -26,7 +24,20 @@ class Open_Food_Facts_Controller {
 
         // Appel de la fonction pour enregistrer une méta donnée lorsque l'utilisateur ajoute un nouveau produit
         add_action('woocommerce_new_product', [__CLASS__, 'add_default_meta_on_product_creation'], 10, 1);
+
+        // Attacher la fonction à l'événement 'update_isactiv_meta'
+        add_action('update_isactiv_meta', [__CLASS__, 'update_isactiv_meta']);
+
+        // Planifier l'événement récurrent de test
+        if (!wp_next_scheduled('test_new_event')) {
+            wp_schedule_event(time(), 'every_second', 'test_new_event');
+        }
+        // Attacher la fonction à l'événement de test
+        add_action('test_new_event', [__CLASS__, 'test_new_event']);
+        // Ajouter le filtre pour les intervalles de cron personnalisés
+        add_filter('cron_schedules', ['Open_Food_Facts_Controller', 'add_cron_intervals']);
     }
+
 
     public static function write_log($message, $file) {
         $current_time = date("Y-m-d H:i:s");
@@ -99,7 +110,7 @@ class Open_Food_Facts_Controller {
         $is_active = get_post_meta($post_id, '_isActiv', true);
         $log_file = plugin_dir_path(__FILE__) . '../log/controller/log.txt';
     
-        // JE NE COMPRENDS PAS pq le msg est repété à 9 reprises pr chaque ligne produit .. => ajout de logs pour identifier le paramètre qui provoque la répétition de log ..
+        // Ajout de logs pour voir combien de fois la fonction est appelée
         error_log('render_open_food_facts_column called for post_id: ' . $post_id);
         self::write_log('render_open_food_facts_column called for post_id: ' . $post_id, $log_file);
         self::write_log('column: ' . $column, $log_file);
@@ -113,8 +124,6 @@ class Open_Food_Facts_Controller {
             require plugin_dir_path(__FILE__) . '../vue/open-food-facts-view.php';
         }
     }
-    
-    
     
 
     public static function enqueue_open_food_facts_script() {
@@ -130,20 +139,21 @@ class Open_Food_Facts_Controller {
         }
     }
 
+    // Fonction pour récupérer les données de Open Food Facts et planifier un événement
     public static function fetch_open_food_facts() {
         check_ajax_referer('open_food_facts_nonce', 'nonce');
-    
+
         try {
             if (isset($_POST['productData'])) {
                 $product_data = is_array($_POST['productData']) ? $_POST['productData'] : json_decode(stripslashes($_POST['productData']), true);
-    
+
                 // Vérifier que toutes les données nécessaires sont présentes
                 if (empty($product_data['nutriscoreGrade']) || empty($product_data['barecode']) || empty($product_data['imageUrl']) || empty($product_data['keywords']) || empty($product_data['productId'])) {
                     throw new Exception('Données de produit incomplètes.');
                 }
                 $productId = $product_data['productId'];
                 $result = Open_Food_Facts_Model::save_product_data($product_data);
-    
+
                 if (is_wp_error($result)) {
                     wp_send_json_error($result->get_error_message());
                 } else {
@@ -151,7 +161,7 @@ class Open_Food_Facts_Controller {
                         'success' => true,
                         'data' => 'Données enregistrées avec succès.'
                     );
-    
+
                     if (isset($result['action'])) {
                         $log_file = plugin_dir_path(__FILE__) . '../log/controller/log.txt';
                         update_post_meta($productId, '_isActiv', "0");
@@ -163,8 +173,13 @@ class Open_Food_Facts_Controller {
                         } elseif ($result['action'] === 'update') {
                             $response['data'] = 'Données mises à jour avec succès.';
                         }
+
+                        // Planifier l'événement pour mettre à jour la méta donnée après 72 heures
+                        if (!wp_next_scheduled('update_isactiv_meta', array($productId))) {
+                            wp_schedule_single_event(time() + 72 * 60 * 60, 'update_isactiv_meta', array($productId));
+                        }
                     }
-    
+
                     wp_send_json_success($response);
                 }
             } else {
@@ -175,7 +190,36 @@ class Open_Food_Facts_Controller {
             wp_send_json_error('Erreur lors de la récupération des données : ' . $e->getMessage());
         }
     }
+
+    // Fonction pour mettre à jour la méta donnée _isActiv après 72 heures
+    public static function update_isactiv_meta($productId) {
+        update_post_meta($productId, '_isActiv', '1');
+        error_log('Mise à jour de la méta donnée _isActiv pour le produit ID: ' . $productId);
+    }
+
+    // Fonction pour nettoyer les événements planifiés si nécessaire
+    public static function clear_scheduled_isactiv_event($productId) {
+        $timestamp = wp_next_scheduled('update_isactiv_meta', array($productId));
+        if ($timestamp) {
+            wp_unschedule_event($timestamp, 'update_isactiv_meta', array($productId));
+        }
+    }
     
+    public static function test_new_event() {
+        $log_file = plugin_dir_path(__FILE__) . '../log/controller/test_log.txt';
+        $message = 'Cron event executed at ' . date('Y-m-d H:i:s') . "\n";
+        file_put_contents($log_file, $message, FILE_APPEND);
+    }
+
+    // Ajouter l'intervalle 'every_minute' pour les tests
+    public static function add_cron_intervals($schedules) {
+        $schedules['every_minute'] = array(
+            'interval' => 60,
+            'display' => __('Chaque Minute')
+        );
+        return $schedules;
+    }
+
     public static function display_open_food_facts_product_datas() {
         $log_file = plugin_dir_path(__FILE__) . '../log/controller/log.txt';
     
@@ -195,7 +239,7 @@ class Open_Food_Facts_Controller {
         write_log('consumerKey: ' . $consumerKey, $log_file);
         $consumerSecret = $_ENV['CONSUMER_SECRET'] ?? 'your_consumer_secret';
         write_log('consumerSecret: ' . $consumerSecret, $log_file);
-    
+        $ip = $_ENV['IP'];
         // Construire l'URL de l'API
         $url = 'https://192.168.1.12/wp-json/wc/v3/products/' . $product_id;
     

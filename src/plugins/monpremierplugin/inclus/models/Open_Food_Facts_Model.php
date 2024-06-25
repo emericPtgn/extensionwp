@@ -1,7 +1,6 @@
 <?php
 
 require_once plugin_dir_path(__FILE__) . '../models/Database.php';
-use Database;
 
 class Open_Food_Facts_Model {
 

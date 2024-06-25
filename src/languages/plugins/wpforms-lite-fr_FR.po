@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Contact Form by WPForms &#8211; Drag &amp; Drop Form Builder for WordPress - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-11 07:52:42+0000\n"
+"PO-Revision-Date: 2024-06-25 13:54:42+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,169 @@ msgstr ""
 "X-Generator: GlotPress/4.0.1\n"
 "Language: fr\n"
 "Project-Id-Version: Plugins - Contact Form by WPForms &#8211; Drag &amp; Drop Form Builder for WordPress - Stable (latest release)\n"
+
+#: src/Integrations/WooCommerce/Notifications.php:147
+msgid "Close the notification"
+msgstr "Fermer la notification"
+
+#: src/Integrations/WooCommerce/Notifications.php:141
+msgid "Get WP Mail SMTP"
+msgstr "Obtenir WP Mail SMTP"
+
+#: src/Integrations/WooCommerce/Notifications.php:137
+msgid "Solve common email deliverability issues for good."
+msgstr "Résolvez définitivement les problèmes courants de délivrabilité des e-mails."
+
+#: src/Integrations/Gutenberg/FormSelector.php:644
+msgid "It looks like the form you had selected is in the Trash or has been permanently deleted."
+msgstr "Il semble que le formulaire que vous aviez sélectionné se trouve dans la corbeille ou a été définitivement supprimé."
+
+#: src/Forms/Token.php:345
+msgid "Network error or server is unreachable. Check your connection or try again later."
+msgstr "Erreur de réseau ou serveur inaccessible. Vérifiez votre connexion ou réessayez ultérieurement."
+
+#: src/Forms/Token.php:341
+msgid "Error updating token. Please try again or contact support if the issue persists."
+msgstr "Erreur lors de la mise à jour du jeton. Veuillez réessayer ou contacter le support si le problème persiste."
+
+#: src/Forms/Token.php:299
+msgid "Please reload the page and try submitting the form again."
+msgstr "Veuillez recharger la page et essayer d’envoyer à nouveau le formulaire."
+
+#: src/Forms/Token.php:285
+msgid "Antispam filter did not allow your data to pass through."
+msgstr "Le filtre antispam n’a pas permis à vos données d’être transférées."
+
+#: src/Forms/Token.php:273
+msgid "Antispam token is invalid."
+msgstr "Le jeton antispam n’est pas valide."
+
+#. translators: %1$s - addon name.
+#: src/Forms/Fields/Helpers/RequirementsAlerts.php:143
+msgid "You're using an older version of the %1$s addon that does not support the Repeater field."
+msgstr "Vous utilisez une ancienne version du module %1$s qui ne prend pas en charge le champ Répéteur."
+
+#: src/Emails/Mailer.php:311
+msgid "New Email Submit"
+msgstr "Envoi d’un nouvel e-mail"
+
+#: src/Admin/Education/Helpers.php:108
+msgid "Featured"
+msgstr "Mis en avant"
+
+#: src/Admin/Education/Helpers.php:104
+msgid "New"
+msgstr "Nouveau"
+
+#: src/Admin/Education/Fields.php:93
+msgid "Repeater"
+msgstr "Répéteur"
+
+#: src/Admin/Builder/Templates.php:1186
+msgid "Measure customer loyalty and find out exactly what they are thinking with this enhanced Net Promoter Score survey template."
+msgstr "Mesurez la fidélité des clients et découvrez exactement ce qu’ils pensent avec ce modèle de sondage amélioré Taux de recommandation net."
+
+#: src/Admin/Builder/Templates.php:1180
+msgid "NPS Survey Enhanced Form"
+msgstr "Formulaire amélioré NPS Survey"
+
+#: src/Admin/Builder/Templates.php:1177
+msgid "Find out if your clients or customers would recommend you to someone else with this basic Net Promoter Score survey template."
+msgstr "Découvrez si vos clients vous recommanderaient à quelqu’un d’autre avec ce modèle simplifié de sondage Taux de recommandation net."
+
+#: src/Admin/Builder/Templates.php:1171
+msgid "NPS Survey Simple Form"
+msgstr "Formulaire simple NPS Survey"
+
+#: src/Admin/Builder/Templates.php:1168
+msgid "Ask visitors a question and display the results after they provide an answer."
+msgstr "Posez une question aux visiteurs et visiteuses, et affichez les résultats après leur réponse."
+
+#: src/Admin/Builder/Templates.php:1162
+msgid "Poll Form"
+msgstr "Formulaire de sondage"
+
+#: src/Admin/Builder/Templates.php:1159
+msgid "Collect customer feedback, then generate survey reports to determine satisfaction and spot trends."
+msgstr "Recueillez les retours des clients, puis générez des rapports d’enquête pour déterminer leur satisfaction et repérer les tendances."
+
+#: src/Admin/Builder/Templates.php:1153
+msgid "Survey Form"
+msgstr "Formulaire d’enquête"
+
+#: src/Admin/Builder/Templates.php:1133
+msgid "User-submitted content made easy. Allow your users to submit guest blog posts in WordPress. You can add and remove fields as needed."
+msgstr "La rédaction de contenu par les utilisateurs et utilisatrices est facilitée. Autorisez-les à envoyer des articles de blog invité dans WordPress. Vous pouvez ajouter et supprimer des champs si nécessaires."
+
+#: src/Admin/Builder/Templates.php:1127
+msgid "Blog Post Submission Form"
+msgstr "Formulaire d’envois de publications de blog"
+
+#: src/Admin/Builder/Templates.php:1107
+msgid "Allow your users to easily reset their password."
+msgstr "Permettez à vos utilisateurs et utilisatrices de réinitialiser facilement leur mot de passe."
+
+#: src/Admin/Builder/Templates.php:1101
+msgid "User Password Reset Form"
+msgstr "Formulaire de réinitialisation du mot de passe du compte"
+
+#: src/Admin/Builder/Templates.php:1098
+msgid "Allow your users to easily log in to your site with their username and password."
+msgstr "Permettez à vos utilisateurs et utilisatrices de se connecter facilement sur votre site avec leur identifiant et leur mot de passe."
+
+#: src/Admin/Builder/Templates.php:1092
+msgid "User Login Form"
+msgstr "Formulaire de connexion utilisateur"
+
+#: src/Admin/Builder/Templates.php:1089
+msgid "Create customized WordPress user registration forms and add them anywhere on your website."
+msgstr "Créez un formulaire personnalisé d’inscription de compte WordPress et ajoutez-le n’importe où sur votre site."
+
+#: src/Admin/Builder/Templates.php:1083
+msgid "User Registration Form"
+msgstr "Formulaire d’inscription utilisateur"
+
+#: src/Admin/Builder/Help.php:157
+msgid "Troubleshooting and Support"
+msgstr "Dépannage et support"
+
+#: src/Admin/Builder/Help.php:156
+msgid "Extending Functionality"
+msgstr "Étendre la fonctionnalité"
+
+#: src/Admin/Builder/Help.php:155
+msgid "Spam Prevention and Security"
+msgstr "Prévention des indésirables et sécurité"
+
+#: src/Admin/Builder/Help.php:154
+msgid "Payment Processing"
+msgstr "Traitement des paiements"
+
+#: src/Admin/Builder/Help.php:151
+msgid "Form Management"
+msgstr "Gestion de formulaire"
+
+#: src/Admin/Builder/Help.php:149
+msgid "Form Creation"
+msgstr "Création de formulaire"
+
+#: lite/templates/admin/entries/single/entry.php:25
+msgid "Back to All Entries"
+msgstr "Retour vers toutes les entrées"
+
+#: lite/templates/admin/entries/overview/modal.php:84
+msgid "Explore Entries & Learn More"
+msgstr "Explorer les entrées et en savoir plus"
+
+#. translators: %d - choice number.
+#: includes/fields/class-base.php:3476
+msgid "Item %d"
+msgstr "Élément %d"
+
+#. translators: %d - field ID.
+#: includes/emails/class-emails.php:645 includes/emails/class-emails.php:690
+msgid "Field ID #%s"
+msgstr "ID de champ n° %s"
 
 #: lite/templates/builder/context-menu.php:51
 msgid "Duplicate Form"
@@ -25,6 +188,11 @@ msgstr "Dupliquer le modèle"
 msgid "%1$d Total"
 msgstr "%1$d total"
 
+#. translators: %s - URL to the documentation article.
+#: templates/admin/empty-states/no-user-templates.php:27
+msgid "Need some help? Check out our <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">documentation</a>."
+msgstr "Besoin d’aide ? Consultez notre <a href=\"%s\" rel=\"noopener noreferrer\" target=\"_blank\">documentation</a>."
+
 #: templates/admin/empty-states/no-user-templates.php:19
 msgid "Save your custom forms to the templates library for quick and easy use."
 msgstr "Enregistrer vos formulaires personnalisés dans la bibliothèque de modèles pour les utiliser rapidement et facilement."
@@ -32,6 +200,10 @@ msgstr "Enregistrer vos formulaires personnalisés dans la bibliothèque de mod�
 #: templates/admin/empty-states/no-user-templates.php:18
 msgid "Did you know you can save your forms as reusable templates?"
 msgstr "Saviez-vous que vous pouvez enregistrer vos formulaires en tant que modèles réutilisables ?"
+
+#: src/Lite/Emails/Summaries.php:80
+msgid "Calculate WPForms Lite Weekly Entries Count"
+msgstr "Calculer le nombre d’entrées hebdomadaires de WPForms Lite"
 
 #: src/Integrations/Stripe/Process.php:1145
 msgid "Irregular activity detected. Your submission has been declined and payment refunded."
@@ -53,6 +225,10 @@ msgstr "Sélectionnez le champ qui contient l’adresse de livraison. Ce champ e
 msgid "Customer Address"
 msgstr "Adresse du client"
 
+#: src/Integrations/Stripe/Admin/Builder/Traits/ContentTrait.php:561
+msgid "Select the field that contains the customer's address. This is optional but required for some regions."
+msgstr "Sélectionnez le champ contenant l’adresse du client. Ceci est facultatif mais nécessaire pour certaines régions."
+
 #: src/Integrations/Stripe/Admin/Builder/Traits/ContentTrait.php:560
 msgid "--- Select Address ---"
 msgstr "--- Sélectionner l’adresse ---"
@@ -64,6 +240,10 @@ msgstr "Impossible d’enregistrer les données du thème."
 #: src/Integrations/Gutenberg/RestApi.php:186
 msgid "Can't create themes storage file."
 msgstr "Impossible de créer un fichier de stockage de thèmes."
+
+#: src/Integrations/Gutenberg/FormSelector.php:635
+msgid "Further customize the look of this form without having to edit theme files."
+msgstr "Personnaliser davantage l’apparence de ce formulaire sans avoir à modifier les fichiers du thème."
 
 #: src/Integrations/Gutenberg/FormSelector.php:634
 msgid "Custom CSS"
@@ -80,6 +260,10 @@ msgstr "Double"
 #: src/Integrations/Gutenberg/FormSelector.php:617
 msgid "Dotted"
 msgstr "Pointillés"
+
+#: src/Integrations/Gutenberg/FormSelector.php:616
+msgid "Dashed"
+msgstr "Tirets"
 
 #: src/Integrations/Gutenberg/FormSelector.php:615
 msgid "Solid"
@@ -198,6 +382,10 @@ msgstr "Position"
 msgid "Background Styles"
 msgstr "Styles d’arrière-plan"
 
+#: src/Integrations/Gutenberg/FormSelector.php:560
+msgid "Container Styles"
+msgstr "Styles du conteneur"
+
 #: src/Integrations/Gutenberg/FormSelector.php:558
 msgid "Button Text"
 msgstr "Texte du bouton"
@@ -209,6 +397,14 @@ msgstr "Arrière-plan du bouton"
 #: src/Integrations/Gutenberg/FormSelector.php:555
 msgid "Field Border"
 msgstr "Bordure du champ"
+
+#: src/Integrations/Gutenberg/FormSelector.php:554
+msgid "Field Sublabel"
+msgstr "Sous-libellé du champ"
+
+#: src/Integrations/Gutenberg/FormSelector.php:553
+msgid "Field Label"
+msgstr "Libellé du champ"
 
 #: src/Integrations/Gutenberg/FormSelector.php:551
 msgid "Noname Theme"
@@ -226,6 +422,11 @@ msgstr "Copie"
 #: src/Integrations/Gutenberg/FormSelector.php:547
 msgid "This cannot be undone."
 msgstr "Ceci est irréversible."
+
+#. Translators: %1$s: Theme name.
+#: src/Integrations/Gutenberg/FormSelector.php:546
+msgid "Are you sure you want to delete the %1$s theme?"
+msgstr "Confirmez-vous que vous souhaitez supprimer le thème %1$s ?"
 
 #: src/Integrations/Gutenberg/FormSelector.php:544
 msgid "Delete Form Theme"
@@ -264,6 +465,10 @@ msgstr "Modèle de formulaire"
 #: src/Forms/Preview.php:178
 msgid "%s Template Preview"
 msgstr "Aperçu du modèle %s"
+
+#: src/Forms/Fields/PaymentSingle/Field.php:248
+msgid "Specify how the price is displayed under the product name."
+msgstr "Précisez comment le prix s’affiche sous le nom du produit."
 
 #: src/Forms/Fields/PaymentSingle/Field.php:247
 msgid "Price Display"
@@ -309,6 +514,16 @@ msgstr "Formulaires"
 msgid "Edit Template"
 msgstr "Modifier le modèle"
 
+#. translators: %s - delay in formatted time.
+#: src/Admin/Forms/UserTemplates.php:242
+msgid "Form template entries are for testing purposes. This entry will be automatically deleted in %s."
+msgstr "Les entrées de modèles de formulaires sont à des fins de test. Cette entrée sera automatiquement supprimée dans %s."
+
+#. translators: %s - delay in formatted time.
+#: src/Admin/Forms/UserTemplates.php:188
+msgid "Form template entries are for testing purposes and will be automatically deleted after %s."
+msgstr "Les entrées de modèles de formulaires sont à des fins de test et seront automatiquement supprimées après %s."
+
 #: src/Admin/Forms/Page.php:57
 msgid "Show form templates"
 msgstr "Afficher les modèles de formulaire"
@@ -330,6 +545,11 @@ msgstr "Aucun modèle de formulaire n’a été trouvé."
 msgid "Upgrade to %s"
 msgstr "Passer à %s"
 
+#. translators: %1$s - Payments page URL.
+#: src/Admin/Education/Pointers/Payment.php:127
+msgid "Now available for you: create forms that accept credit cards, Apple Pay, and Google Pay payments. Visit our new <a href=\"%1$s\" id=\"wpforms-education-pointers-payments\">Payments area</a> to get started."
+msgstr "Désormais à votre disposition : créez des formulaires qui acceptent les paiements par carte bancaire, ainsi que par Apple Pay et Google Pay. Rendez-vous dans notre nouvel <a href=\"%1$s\" id=\"wpforms-education-pointers-payments\">espace Paiements</a> pour commencer."
+
 #: src/Admin/Education/Pointers/Payment.php:125
 msgid "Payment and Donation Forms are here!"
 msgstr "Les formulaires de paiement et de don sont ici !"
@@ -346,6 +566,11 @@ msgstr "Supprimer le modèle de formulaire"
 #: src/Integrations/Gutenberg/FormSelector.php:548
 msgid "Yes, Delete"
 msgstr "Oui, Supprimer"
+
+#. translators: %s - URL to the documentation.
+#: src/Admin/Builder/Settings/Themes.php:142
+msgid "Customize the look and feel of your form with premade themes or simple style settings that allow you to use your own colors to match your brand. Themes and style settings are in the Block Editor, where you can see a realtime preview. <br /><a href=\"%s\" target=\"_blank\">Learn more about styling your forms</a>"
+msgstr "Personnalisez l’apparence de votre formulaire avec des thèmes prédéfinis ou des réglages de style simples qui vous permettent d’utiliser vos propres couleurs pour correspondre à votre marque. Les thèmes et les réglages de style se trouvent dans l’Éditeur de blocs, où vous pouvez voir une prévisualisation en temps réel. <br /><a href=\"%s\" target=\"_blank\">En savoir plus sur le style de vos formulaires</a>"
 
 #: src/Admin/Builder/Settings/Themes.php:118
 msgid "Request Feature"
@@ -383,6 +608,11 @@ msgstr "Quoi de neuf ?"
 #: lite/templates/builder/context-menu.php:64
 msgid "Save as Template"
 msgstr "Enregistrer comme modèle"
+
+#. translators: %s - URL the to list of Zaps.
+#: includes/class-form.php:1061
+msgid "Head over to the Zapier settings in the Marketing tab or visit your <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Zapier account</a> to restore them."
+msgstr "Ouvrez les réglages Zapier dans l’onglet Marketing ou visitez votre <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">compte Zapier</a> pour les restaurer."
 
 #: includes/class-form.php:1058
 msgid "Zaps Have Been Disabled"
@@ -493,6 +723,10 @@ msgstr "Exemple de produit 2"
 msgid "Example Product 1"
 msgstr "Exemple de produit 1"
 
+#: src/Forms/Fields/PaymentTotal/Field.php:441
+msgid "Example data is shown in the form editor. Actual products and totals will be displayed when you preview or embed your form."
+msgstr "Des exemples de données sont affichés dans l’éditeur du formulaire. Les produits et les totaux réels seront affichés lorsque vous prévisualiserez ou embarquerez votre formulaire."
+
 #: src/Forms/Fields/PaymentTotal/Field.php:395
 msgid "Enable order summary for this field."
 msgstr "Activer le résumé de la commande pour ce champ."
@@ -513,13 +747,30 @@ msgstr "Mise à jour nécessaire"
 msgid "Save and Resume"
 msgstr "Sauvegarder et reprendre"
 
+#: src/Forms/Fields/Helpers/RequirementsAlerts.php:76
+msgid "You're using an older version of the Coupons addon that does not support order summary."
+msgstr "Vous utilisez une ancienne version du module Code promo qui ne prend pas en charge le récapitulatif de commande."
+
+#. translators: %1$s - addons list.
+#: src/Forms/Fields/Helpers/RequirementsAlerts.php:59
+msgid "The following addons require an update to support product quantities: %1$s"
+msgstr "Les modules suivants nécessitent une mise à jour pour prendre en charge les quantités de produits : %1$s"
+
 #: src/Admin/Splash/SplashTrait.php:116
 msgid "Upgrade to Pro Today"
 msgstr "Passer à la version Pro aujourd’hui"
 
+#: src/Admin/Splash/SplashTrait.php:114
+msgid "Add advanced form fields and conditional logic, plus offer more payment options, manage entries, and connect to your favorite marketing tools – all when you purchase a premium plan."
+msgstr "Ajoutez des champs de formulaire avancés et une logique conditionnelle, proposez davantage d’options de paiement, gérez les entrées et connectez-vous à vos outils de marketing préférés, tout cela en achetant une offre premium."
+
 #: src/Admin/Splash/SplashTrait.php:113
 msgid "Start Building Smarter WordPress Forms"
 msgstr "Commencer à construire des formulaires de WordPress plus intelligents"
+
+#: src/Admin/Splash/SplashTrait.php:110
+msgid "Since you’ve been gone, we’ve added some great new features to help grow your business and generate more leads. Here are some highlights..."
+msgstr "Depuis votre départ, nous avons ajouté de nouvelles fonctionnalités qui vous aideront à développer votre activité et à générer davantage de prospects. En voici quelques exemples..."
 
 #: src/Admin/Splash/SplashTrait.php:109
 msgid "What’s New in WPForms"
@@ -532,6 +783,10 @@ msgstr "Voir les nouvelles fonctionnalités !"
 #: src/Admin/Pages/Community.php:77
 msgid "View WPForms Announcements"
 msgstr "Voir les annonces de WPForms"
+
+#: src/Admin/Pages/Community.php:76
+msgid "Check out the latest releases from WPForms. Our team is always innovating to bring you powerful features and functionality that are simple to use. Every release is designed with you in mind!"
+msgstr "Découvrez les dernières versions de WPForms. Notre équipe innove sans cesse pour vous apporter des fonctionnalités puissantes et simples à utiliser. Chaque version est conçue pour répondre à vos besoins !"
 
 #: src/Admin/Pages/Community.php:75
 msgid "WPForms Announcements"
@@ -549,6 +804,18 @@ msgstr "Gamme"
 #: includes/fields/class-base.php:2202
 msgid "Enable Quantity"
 msgstr "Activer la quantité"
+
+#: includes/fields/class-base.php:2196
+msgid "Set the minimum and maximum quantity for this product."
+msgstr "Définissez les quantités minimale et maximale pour ce produit."
+
+#: includes/fields/class-base.php:2195
+msgid "Enable quantity for this product to allow customers to purchase more than one."
+msgstr "Activez la quantité pour ce produit afin de permettre aux client·e·s d’acheter plus d’un."
+
+#: includes/admin/class-review.php:192
+msgid "Hey, there! It looks like you enjoy creating forms with WPForms. Would you do us a favor and take a few seconds to give us a 5-star review? We’d love to hear from you."
+msgstr "Bonjour ! Il semble que vous appréciez la création de formulaires avec WPForms. Pourriez-vous nous faire une faveur et prendre quelques secondes pour nous donner une avis de 5 étoiles ? Nous serions ravis d’avoir de vos nouvelles."
 
 #: templates/builder/field-context-menu.php:120
 msgid "Edit Smart Logic"
@@ -886,6 +1153,11 @@ msgstr "Élégant"
 msgid "Compact"
 msgstr "Compact"
 
+#. translators: %1$d - field ID.
+#: src/Emails/Notifications.php:906
+msgid "Field ID #%1$s"
+msgstr "ID de champ n° %1$s"
+
 #: src/Emails/Helpers.php:34
 msgid "Legacy"
 msgstr "Hérité"
@@ -924,6 +1196,11 @@ msgstr "Liens"
 #: src/Admin/Settings/Email.php:521
 msgid "Body"
 msgstr "Corps"
+
+#. translators: %s - level name, either Pro or Elite.
+#: src/Admin/Education/StringsTrait.php:149
+msgid "are a %s Feature"
+msgstr "sont une fonctionnalité %s"
 
 #: src/Admin/Builder/Notifications/Advanced/EmailTemplate.php:172
 msgid "Default Template"
@@ -2991,6 +3268,11 @@ msgstr "Adresse e-mail %1$s %2$s non valide."
 msgid "<strong>You cannot use modern markup because you’re using the deprecated Credit Card field.</strong> If you’d like to use modern markup, replace your credit card field with a payment gateway like <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Stripe</a>."
 msgstr "<strong>Vous ne pouvez pas utiliser le balisage moderne, car vous utilisez le champ obsolète Carte bancaire.</strong> Si vous souhaitez utiliser le balisage moderne, remplacez votre champ de carte bancaire par une passerelle de paiement telle que <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Stripe</a>."
 
+#. translators: %s - WPForms.com form markup setting URL.
+#: src/Admin/Settings/ModernMarkup.php:79
+msgid "Check this option to use modern markup, which has increased accessibility and allows you to easily customize your forms in the block editor. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Read our form markup documentation</a> to learn more."
+msgstr "Cochez cette option pour utiliser le balisage moderne, qui augmente l’accessibilité et vous permet de personnaliser facilement vos formulaires dans l’éditeur de blocs. <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Lisez notre documentation sur le balisage des formulaires</a> pour en savoir plus."
+
 #: src/Admin/Settings/ModernMarkup.php:76
 msgid "Use Modern Markup"
 msgstr "Utiliser le balisage moderne"
@@ -3401,6 +3683,11 @@ msgstr "Après avoir acheté une licence, <strong>saisissez votre clé de licenc
 msgid "Please check out our <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">doc on fixing email delivery issues</a> for more details."
 msgstr "Veuillez consulter notre <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">documentation sur la résolution des problèmes de délivrabilité des e-mails</a> pour plus de détails."
 
+#. translators: %1$s - WordPress site domain.
+#: src/Integrations/SMTP/Notifications.php:207
+msgid "Alternately, try using a From Address that matches your website domain (admin@%1$s)."
+msgstr "Vous pouvez également essayer d’utiliser une adresse d’expédition correspondant au domaine de votre site (admin@%1$s)."
+
 #. translators: %1$s - WP Mail SMTP install page URL.
 #: src/Integrations/SMTP/Notifications.php:191
 msgid "We strongly recommend that you install the free <a href=\"%1$s\" target=\"_blank\">WP Mail SMTP</a> plugin! The Setup Wizard makes it easy to fix your emails."
@@ -3551,6 +3838,16 @@ msgstr "Collectez les noms, e-mails et messages des internautes qui ont besoin d
 msgid "The template you selected is currently not available, but you can try again later. If you continue to have trouble, please reach out to support."
 msgstr "Le modèle que vous avez sélectionné n’est pas disponible actuellement, mais vous pouvez réessayer ultérieurement. Si le problème persiste, veuillez contacter le support."
 
+#. translators: %1$s - WPForms.com Upgrade page URL.
+#: templates/emails/summary-body.php:97
+msgid "When you’re ready to manage your entries inside WordPress, <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">upgrade to Pro</a> to import your entries."
+msgstr "Lorsque vous êtes prêt·e à gérer vos entrées dans WordPress, <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">passez à la version Pro</a> pour importer vos entrées."
+
+#. translators: %1$s - WPForms.com Documentation page URL.
+#: templates/emails/summary-body.php:80
+msgid "Backups are completely free, 100%% secure, and you can turn them on in a few clicks! <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Enable entry backups now.</a>"
+msgstr "Les sauvegardes sont entièrement gratuites, 100 %% sécurisées et vous pouvez les activer en quelques clics ! <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Activez les sauvegardes d’entrée maintenant.</a>"
+
 #: templates/emails/summary-body.php:74
 msgid "We recommend that you enable entry backups to guard against lost entries."
 msgstr "Nous vous recommandons d’activer les sauvegardes d’entrées pour vous protéger contre les entrées perdues."
@@ -3562,6 +3859,11 @@ msgstr "Note : les sauvegardes d’entrées ne sont pas activées."
 #: templates/emails/summary-body.php:67
 msgid "Check out what else you’ll get with your Pro license."
 msgstr "Découvrez ce que vous obtiendrez d’autre avec votre licence Pro."
+
+#. translators: %1$s - WPForms.com Upgrade page URL.
+#: templates/emails/summary-body.php:49
+msgid "Your entries are being backed up securely in the cloud. When you’re ready to manage your entries inside WordPress, just <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">upgrade to Pro</a> and we’ll automatically import them in seconds!"
+msgstr "Vos entrées sont sauvegardées en toute sécurité dans le cloud. Lorsque vous souhaiterez gérer vos entrées dans WordPress, il vous suffira de <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">passer à la version Pro</a> et nous les importerons automatiquement en quelques secondes !"
 
 #: templates/emails/summary-body.php:45
 msgid "We’ve got you covered!"
@@ -4351,6 +4653,10 @@ msgstr "Collectez des signatures, des données de géolocalisation et des télé
 #: includes/admin/class-about.php:581 lite/wpforms-lite.php:671
 msgid "Let users save & resume submissions to prevent abandonment"
 msgstr "Autoriser les utilisateurs/utilisatrices à enregistrer et à reprendre afin d’éviter les abandons"
+
+#: includes/admin/class-about.php:577 lite/wpforms-lite.php:670
+msgid "7000+ integrations with marketing and payment services"
+msgstr "Plus de 7 000 intégrations avec des services de marketing et de paiement"
 
 #: includes/admin/class-about.php:557 lite/wpforms-lite.php:664
 msgid "Unlock all fields & features, including smart conditional logic"
@@ -5460,6 +5766,11 @@ msgstr "Faites votre choix parmi notre grande variété de champs et commencez �
 msgid "Increment value should be greater than zero. Decimal fractions allowed."
 msgstr "La valeur de l’augmentation doit être supérieure à zéro. Les fractions décimales sont autorisées."
 
+#. translators: %1$s - site URL, %2$s - link to the documentation.
+#: templates/emails/summary-footer.php:23
+msgid "This email was auto-generated and sent from %1$s. Learn <a href=\"%2$s\">how to disable</a>"
+msgstr "Cet e-mail a été généré automatiquement et envoyé à partir de %1$s. Découvrir <a href=\"%2$s\">comment désactiver cette fonction</a>"
+
 #. translators: %s - link to the documentation.
 #: templates/emails/summary-footer-plain.php:23
 msgid "Learn how to disable: %s."
@@ -5744,6 +6055,11 @@ msgstr "Message suivant"
 msgid "Previous message"
 msgstr "Message précédent"
 
+#. translators: %1$s - addon name, %2$s - level name, either Pro or Elite.
+#: src/Admin/Education/StringsTrait.php:155
+msgid "We're sorry, the %1$s is not available on your plan. Please upgrade to the %2$s plan to unlock all these awesome features."
+msgstr "Malheureusement, %1$s n’est pas disponible dans votre offre. Veuillez passer à l’offre %2$s pour débloquer toutes ces fonctionnalités formidables."
+
 #: includes/admin/class-about.php:1484
 msgid "Pro Addons Included"
 msgstr "Modules Pro inclus"
@@ -5937,6 +6253,11 @@ msgstr "RafflePress Pro"
 #: includes/admin/class-about.php:946
 msgid "RafflePress"
 msgstr "RafflePress"
+
+#. translators: %s - Path to installed plugins.
+#: wpforms.php:198
+msgid "Your site already has WPForms Pro activated. If you want to switch to WPForms Lite, please first go to %s and deactivate WPForms. Then, you can activate WPForms Lite."
+msgstr "Votre site a déjà activé WPForms Pro. Si vous souhaitez passer à WPForms Lite, veuillez d’abord aller sur %s et désactiver WPForms. Ensuite, vous pourrez activer WPForms Lite."
 
 #: src/Frontend/Frontend.php:754
 msgid "Please enable JavaScript in your browser to complete this form."
@@ -7224,6 +7545,11 @@ msgstr "Créer des formulaires de paiement"
 msgid "Not Available"
 msgstr "Non disponible"
 
+#: includes/admin/class-about.php:1306 includes/admin/class-about.php:1320
+#: includes/admin/class-about.php:1334 includes/admin/class-about.php:1348
+msgid "<strong>Bonus:</strong> 7000+ integrations with Zapier."
+msgstr "<strong>Bonus :</strong> plus de 7 000 intégrations avec Zapier."
+
 #: includes/admin/class-about.php:1316 includes/admin/class-about.php:1330
 #: includes/admin/class-about.php:1344
 msgid "All Marketing Integrations"
@@ -7335,6 +7661,11 @@ msgstr "Bonus : les utilisateurs ou utilisatrices de WPForms Lite obtiennent <s
 #: includes/admin/class-about.php:612
 msgid "Get WPForms Pro Today and Unlock all the Powerful Features"
 msgstr "Obtenez WPForms Pro aujourd’hui et déverrouillez toute la puissance de ces fonctionnalités"
+
+#. translators: %s - stars.
+#: includes/admin/class-about.php:523
+msgid "We know that you will truly love WPForms. It has over <strong>13,000+ five star ratings</strong> (%s) and is active on over 6 million websites."
+msgstr "Nous savons que vous allez adorer WPForms. Il a reçu <strong>plus de 13 000 évaluations de cinq étoiles</strong> (%s) et est actif sur plus de 6 millions de sites."
 
 #: includes/admin/class-about.php:510
 msgid "Thanks for being a loyal WPForms Lite user. <strong>Upgrade to WPForms Pro</strong> to unlock all the awesome features and experience<br>why WPForms is consistently rated the best WordPress form builder."
@@ -10721,6 +11052,11 @@ msgstr "Formulaires de connexion et d’inscription de compte WordPress"
 msgid "Pro Features:"
 msgstr "Fonctionnalités Pro :"
 
+#. translators: %s - star icons.
+#: lite/wpforms-lite.php:640
+msgid "We know that you will truly love WPForms. It has over 13,000+ five star ratings (%s) and is active on over 6 million websites."
+msgstr "Nous savons que vous allez adorer WPForms. Il a reçu plus de 13 000 évaluations de cinq étoiles (%s) et est actif sur plus de 6 millions de sites."
+
 #: lite/wpforms-lite.php:635
 msgid "Thanks for being a loyal WPForms Lite user. Upgrade to WPForms Pro to unlock all the awesome features and experience why WPForms is consistently rated the best WordPress form builder."
 msgstr "Merci d’être un utilisateur ou une utilisatrice fidèle de WPForms Lite. Mettez à niveau vers WPForms Pro pour déverrouiller toutes les formidables fonctionnalités et expérimenter pourquoi WPForms est toujours noté comme le meilleur constructeur de formulaire pour WordPress."
@@ -11407,6 +11743,11 @@ msgstr "Déjà acheté ?"
 #: src/Admin/Education/StringsTrait.php:103
 msgid "<strong>Bonus:</strong> WPForms Lite users get <span>50% off</span> regular price, automatically applied at checkout."
 msgstr "<strong>Bonus :</strong> les utilisateurs et utilisatrices de WPForms Lite obtiennent <span>50% de remise</span> sur le prix normal, automatiquement appliqué à la commande."
+
+#. translators: %1$s - addon name, %2$s - level name, either Pro or Elite.
+#: src/Admin/Education/StringsTrait.php:162
+msgid "We're sorry, %1$s are not available on your plan. Please upgrade to the %2$s plan to unlock all these awesome features."
+msgstr "Malheureusement, les %1$s ne sont pas disponibles dans votre offre. Veuillez passer à l’offre %2$s pour débloquer toutes ces fonctionnalités formidables."
 
 #. translators: %s - level name, either Pro or Elite.
 #: src/Admin/Education/StringsTrait.php:143
